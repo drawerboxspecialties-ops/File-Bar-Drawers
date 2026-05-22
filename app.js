@@ -1,5 +1,5 @@
 ﻿// file-app.js - DOM interactions, fraction calculations, and vector blueprint rendering
-import { FILE_FORMULA_CONFIG } from './file-formulas.js';
+import { FILE_FORMULA_CONFIG } from './formulas.js';
 
 let fileQueue = [];
 let currentFileMode = 'letter';
